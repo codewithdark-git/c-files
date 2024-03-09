@@ -20,5 +20,3 @@ int main() {
 
     return 0;
 }
-
-an array is a data structure that allows you to store multiple values of the same data type under a single name. Each value in an array is identified by an index. Arrays in C++ have a fixed size, meaning you must specify the number of elements it will hold when you declare it.
