@@ -30,10 +30,3 @@ int main() {
 
     return 0;
 }
-```
-
-Output:
-```
-Initial count: 0
-Count after creating objects: 3
-```
